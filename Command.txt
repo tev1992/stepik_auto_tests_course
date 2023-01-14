@@ -9,3 +9,6 @@ pytest test_user_interface.py
 
 pytest scripts/drafts.py::test_register_new_user_parametrized
 # найти тест с именем test_register_new_user_parametrized в указанном файле в указанной директории и выполнить
+
+в названии файлов не должно быть точки - для запуска тестов
+    pytest -v --tb=line step_3_3_8_pytest_lesson.py - запуск с красотой))
