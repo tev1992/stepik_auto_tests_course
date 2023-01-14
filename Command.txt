@@ -1,0 +1,2 @@
+запуск теста из PyCharm:
+PS C:\Repository\PycharmProjects\stepik_auto_tests_course\Lesson3> pytest step_3_11_unittest.py  
